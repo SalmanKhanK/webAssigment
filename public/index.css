@@ -1,0 +1,59 @@
+/* .btn-primary:hover{
+    color: #fff;
+    background-color: palevioletred;
+    border-color: #357ebd;
+} */
+.bord:hover{ background-color: seagreen;}
+.bordk:hover{ background-color:palevioletred;}
+.borda:hover{ background-color:peru;}
+.bordd:hover{ background-color:firebrick;}
+@media(max-width:786px){
+    #headerimg{
+        height: auto;
+        width: auto;
+    }
+}
+
+.navbar-expand-lg{
+    background-color: rosybrown !important;
+}
+.nav-link{
+    font-size: medium !important;
+    font-weight: bold !important;
+    color:black !important;
+}
+.nav-link:hover{
+     text-decoration: underline !important;
+     color: goldenrod !important;
+}
+#buynow{
+    background-color: #eb7a34 !important;
+    border: none !important;
+}
+#buynow:hover{
+    background-color: #eb3d34 !important;
+}
+
+#offers{
+    border: none !important;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+
+  #text{
+      color: green;
+      font-size: 20px;
+      font-weight: initial;
+      font-style: italic;
+            
+  }
+.fab{
+    font-size: 30px;
+}
+.checked{
+    color: orange;
+ 
+}
